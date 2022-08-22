@@ -1,6 +1,7 @@
 ---
-title: "Circles"
+title: "Form"
 date: 2022-08-22
 ---
 
-This project has no beginning. It has only taken this form for now.
+Circular thinking. Surrealist architecture.
+This project has no beginning. For now I concede to the web, and place things in it.
